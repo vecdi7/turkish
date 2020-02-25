@@ -1,1 +1,210 @@
-http://m3ulink.com:6969/get.php?username=frtyvz771&password=kQv3YqXZ&type=simple&output=ts
+#EXTM3U
+
+#EXTINF:0 group-title="ULUSAL",TRT 1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:0 group-title="ULUSAL",TRT 1
+http://blutv-beta.akamaized.net/trt1hd/trt1hd.smil/playlist.m3u8
+#EXTINF:0 group-title="ULUSAL",STAR
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:0 group-title="ULUSAL",STAR
+http://blutv-beta.akamaized.net/startvhd/startvhd.smil/playlist.m3u8
+#EXTINF:0 group-title="ULUSAL",KANAL D
+http://2122248094.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8
+#EXTINF:0 group-title="ULUSAL",KANAL D
+http://blutv-beta.akamaized.net/kanaldhd/kanaldhd.smil/playlist.m3u8
+#EXTINF:0 group-title="ULUSAL",ATV
+http://blutv-beta.akamaized.net/atvhd/atvhd.smil/playlist.m3u8
+#EXTINF:0 group-title="ULUSAL",ATV
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:0 group-title="ULUSAL",ATV
+http://trkvz-m.ercdn.net/atvhd/atvhd.m3u8
+#EXTINF:0 group-title="ULUSAL",SHOW TV
+http://blutv-beta.akamaized.net/showhd/showtvhd.smil/playlist.m3u8
+#EXTINF:0 group-title="ULUSAL",FOX TV
+http://blutv-beta.akamaized.net/foxtvhd/foxtvhd.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:0 group-title="ULUSAL",TV8
+http://blutv-beta.akamaized.net/tv8hd/tv8hd.smil/chunklist_b1596000_sltur.m3u8
+
+#EXTINF:0 group-title="HABER",TRT HABER
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:0 group-title="HABER",TRT HABER
+https://blutv-beta.akamaized.net/trthaber/trthaber.smil/playlist.m3u8
+#EXTINF:0 group-title="HABER",HABER TURK
+http://blutv-beta.akamaized.net/haberturkhd/haberturkhd.smil/playlist.m3u8
+#EXTINF:0 group-title="HABER",CNN TURK
+http://blutv-beta.akamaized.net/cnnturkhd/cnnturkhd.smil/playlist.m3u8
+#EXTINF:0 group-title="HABER",CNN TURK
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:0 group-title="HABER",NTV
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:0 group-title="HABER",NTV
+http://blutv-beta.akamaized.net/ntvhd/ntvhd.smil/playlist.m3u8
+#EXTINF:0 group-title="HABER",24
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
+#EXTINF:0 group-title="HABER",24
+https://blutv-beta.akamaized.net/24hd/24hd.smil/playlist.m3u8
+#EXTINF:0 group-title="HABER",HALK TV
+http://blutv-beta.akamaized.net/halktv/halktv.smil/playlist.m3u8
+#EXTINF:0 group-title="HABER",A HABER
+http://trkvz-m.ercdn.net/ahaberhd/ahaberhd.m3u8
+#EXTINF:0 group-title="HABER",A HABER
+https://blutv-beta.akamaized.net/ahaber/ahaber.smil/chunklist.m3u8
+#EXTINF:0 group-title="HABER",A PARA
+http://trkvz-m.ercdn.net/aparahd/aparahd.m3u8
+#EXTINF:0 group-title="HABER",A PARA
+https://blutv-beta.akamaized.net/apara/apara.smil/playlist.m3u8
+#EXTINF:0 group-title="HABER",AKIT TV
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:0 group-title="HABER",TGRT HABER
+https://5ab9557ae2fa9.streamlock.net/tgrt_haber/amlst:live-25/chunklist_w1011305533_b1200096.m3u8
+#EXTINF:0 group-title="HABER",TGRT HABER
+https://blutv-beta.akamaized.net/tgrthaber/tgrthaber.smil/playlist.m3u8
+#EXTINF:0 group-title="HABER",ULKE TV
+http://blutv-beta.akamaized.net/ulketvhd/ulketvhd.smil/playlist.m3u8
+#EXTINF:0 group-title="HABER",TURKIYEM TV
+http://yerelmedya.tv:1935/turkiyemtv/_definst_/bant1/playlist.m3u8
+#EXTINF:0 group-title="HABER",BLOOMBERG HT
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:0 group-title="HABER",BLOOMBERG HT
+http://blutv-beta.akamaized.net/bloomberghd/bloomberghd.smil/playlist.m3u8
+#EXTINF:0 group-title="HABER",EKOTURK
+http://blutv-beta.akamaized.net/ekoturk/ekoturk.smil/playlist.m3u8
+#EXTINF:0 group-title="HABER",HABER GLOBAL
+https://blutv-beta.akamaized.net/haberglobal/haberglobal.smil/playlist.m3u8
+
+#EXTINF:0 group-title="MUZIK",TRT MUZIK
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:0 group-title="MUZIK",TRT MUZIK
+http://blutv-beta.akamaized.net/trtmuzik/trtmuzik.smil/playlist.m3u8
+#EXTINF:0 group-title="MUZIK",KRAL TV
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:0 group-title="MUZIK",KRAL POP
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:0 group-title="MUZIK",POWER TURK
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:0 group-title="MUZIK",POWER TURK
+http://blutv-beta.akamaized.net/powerturkhd/powerturkhd.smil/playlist.m3u8
+#EXTINF:0 group-title="MUZIK",DREAM TURK
+http://blutv-beta.akamaized.net/dreamturk/dreamturk.smil/playlist.m3u8
+#EXTINF:0 group-title="MUZIK",DREAM TURK
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1500/prog_index.m3u8
+#EXTINF:0 group-title="MUZIK",NUMBER ONE TURK
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunks.m3u8
+#EXTINF:0 group-title="MUZIK",NUMBER ONE DAMAR
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunks.m3u8
+#EXTINF:0 group-title="MUZIK",NUMBER ONE ASK
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunks.m3u8
+#EXTINF:0 group-title="MUZIK",POWER TV
+https://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:0 group-title="MUZIK",POWER TV
+http://blutv-beta.akamaized.net/powertvhd/powertvhd.smil/playlist.m3u8
+#EXTINF:0 group-title="MUZIK",DREAM TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1500/prog_index.m3u8
+#EXTINF:0 group-title="MUZIK",DREAM TV
+http://blutv-beta.akamaized.net/dreamtvhd/dreamtvhd.smil/playlist.m3u8
+#EXTINF:0 group-title="MUZIK",KRAL WORLD
+http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist.m3u8
+#EXTINF:0 group-title="MUZIK",NUMBER ONE TV
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunks.m3u8
+
+#EXTINF:0 group-title="SPOR",A SPOR
+http://trkvz-m.ercdn.net/asporhd/asporhd.m3u8
+#EXTINF:0 group-title="SPOR",TRT SPOR
+http://blutv-beta.akamaized.net/trtsporhd/trtsporhd.smil/playlist.m3u8
+#EXTINF:0 group-title="SPOR",TRT SPOR
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:0 group-title="SPOR",SPORTS TV
+http://blutv-beta.akamaized.net/sportstv/sportstv.smil/playlist.m3u8
+#EXTINF:0 group-title="SPOR",YABAN TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w745413644.m3u8
+#EXTINF:0 group-title="SPOR",T.A.Y. TV
+http://live.netd.com.tr/S1/HLS_LIVE/tay/1000/prog_index.m3u8
+#EXTINF:0 group-title="SPOR",T.A.Y. TV
+http://blutv-beta.akamaized.net/taytvhd/taytvhd.smil/playlist.m3u8
+#EXTINF:0 group-title="SPOR",TJK TV
+http://tjktv.ercdn.net/tjktv.m3u8
+
+#EXTINF:0 group-title="COCUK",TRT COCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:0 group-title="COCUK",TRT COCUK
+https://blutv-beta.akamaized.net/trtcocukhd/trtcocukhd.smil/playlist.m3u8
+#EXTINF:0 group-title="COCUK",MINIKA COCUK
+http://trkvz-m.ercdn.net/minikagococuk/minikagococuk.m3u8
+#EXTINF:0 group-title="COCUK",MINIKA GO
+http://trkvz-m.ercdn.net/minikago/minikago.m3u8
+
+#EXTINF:0 group-title="DIZI",360
+http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
+#EXTINF:0 group-title="DIZI",TLC
+http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:0 group-title="DIZI",DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+#EXTINF:0 group-title="DIZI",FX
+http://blutv-beta.akamaized.net/fx/fx.smil/playlist.m3u8
+#EXTINF:0 group-title="DIZI",TV8.5
+http://blutv-beta.akamaized.net/tv8.5hd/tv8.5hd.smil/playlist.m3u8
+#EXTINF:0 group-title="DIZI",A2
+http://trkvz-m.ercdn.net/a2tv/a2tv.m3u8
+#EXTINF:0 group-title="DIZI",A2
+https://blutv-beta.akamaized.net/a2/a2.smil/playlist.m3u8
+#EXTINF:0 group-title="DIZI",TEVE 2
+http://blutv-beta.akamaized.net/teve2hd/teve2hd.smil/playlist.m3u8
+#EXTINF:0 group-title="DIZI",TEVE 2
+http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1500/prog_index.m3u8
+#EXTINF:0 group-title="DIZI",TRT 2
+http://trtcanlitv-lh.akamaihd.net/i/TRT2_1@107981/index_720p_av-b.m3u8
+#EXTINF:0 group-title="DIZI",TRT TURK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:0 group-title="DIZI",TRT TURK
+https://blutv-beta.akamaized.net/trtturkhd/trtturkhd.smil/playlist.m3u8
+#EXTINF:0 group-title="DIZI",TRT AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:0 group-title="DIZI",EURO STAR
+http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
+#EXTINF:0 group-title="DIZI",EURO D
+http://soledge7.dogannet.tv/S2/HLS_LIVE/eurod/index.m3u8
+#EXTINF:0 group-title="DIZI",EURO D
+https://blutv-beta.akamaized.net/eurod/eurod.smil/playlist.m3u8
+#EXTINF:0 group-title="DIZI",ATV AVRUPA
+http://trkvz-m.ercdn.net/atvavrupa/atvavrupa.m3u8
+#EXTINF:0 group-title="DIZI",SHOW TURK
+https://blutv-beta.akamaized.net/showturk/showturk.smil/playlist.m3u8
+#EXTINF:0 group-title="DIZI",TV8 INT
+http://blutv-beta.akamaized.net/tv8int/tv8int.smil/playlist.m3u8
+#EXTINF:0 group-title="DIZI",TGRT EU
+http://cdn1.streamencoding.com:1935/tgrt_eu/amlst:live-32/playlist.m3u8
+
+#EXTINF:0 group-title="DIGER",BEYAZ TV
+http://blutv-beta.akamaized.net/beyaztv/beyaztv.smil/playlist.m3u8
+#EXTINF:0 group-title="DIGER",KANAL 7
+http://blutv-beta.akamaized.net/kanal7hd/kanal7hd.smil/playlist.m3u8
+#EXTINF:0 group-title="DIGER",WOMAN TV
+https://blutv-beta.akamaized.net/womantv/womantv.smil/playlist.m3u8
+#EXTINF:0 group-title="DIGER",SEMERKAND
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand3/playlist.m3u8
+#EXTINF:0 group-title="DIGER",MELTEM TV
+http://195.142.1.213:1935/meltemmedya/meltemtv/chunklist.m3u8
+#EXTINF:0 group-title="DIGER",DIYANET TV
+https://nocvp-usd.noccdn.net/asset/7wGduAH1/chunklist.m3u8
+#EXTINF:0 group-title="DIGER",DIYANET TV
+https://blutv-beta.akamaized.net/diyanet/diyanet.smil/playlist.m3u8
+#EXTINF:0 group-title="DIGER",ON4 TV
+http://yayin.netradyom.com:1935/live/on4/playist.m3u8
+#EXTINF:0 group-title="DIGER",YOL TV
+http://stream.yol.tv:9485/medialive/yol.m3u8
+#EXTINF:0 group-title="DIGER",TV4
+https://mn-nl.mncdn.com/karamel/karamel/playlist.m3u8
+#EXTINF:0 group-title="DIGER",TRT BELGESEL
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:0 group-title="DIGER",TRT BELGESEL
+http://blutv-beta.akamaized.net/trtbelgesel/trtbelgesel.smil/playlist.m3u8
+#EXTINF:0 group-title="DIGER",TGRT BELGESEL
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+#EXTINF:0 group-title="DIGER",AKILLI TV
+http://akillitvhls.cdn.streamprovider.net/playlist.m3u8
+#EXTINF:0 group-title="DIGER",UCAN KUS
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:0 group-title="DIGER",UCAN KUS
+https://blutv-beta.akamaized.net/ucankus/ucankus.smil/playlist.m3u8
+#EXTINF:0 group-title="DIGER",SAT 7 TURK
+http://unirtmp.tulix.tv:1935/sat7turk/satturklive-web.smil/playlist.m3u8
