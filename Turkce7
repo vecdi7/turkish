@@ -1,5 +1,3 @@
-#EXTM3U
-
 #EXTINF:0 group-title="ULUSAL",TRT 1
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:0 group-title="ULUSAL",TRT 1
@@ -24,7 +22,6 @@ http://blutv-beta.akamaized.net/showhd/showtvhd.smil/playlist.m3u8
 http://blutv-beta.akamaized.net/foxtvhd/foxtvhd.smil/chunklist_b2628000_sltur.m3u8
 #EXTINF:0 group-title="ULUSAL",TV8
 http://blutv-beta.akamaized.net/tv8hd/tv8hd.smil/chunklist_b1596000_sltur.m3u8
-
 #EXTINF:0 group-title="HABER",TRT HABER
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 #EXTINF:0 group-title="HABER",TRT HABER
@@ -71,7 +68,6 @@ http://blutv-beta.akamaized.net/bloomberghd/bloomberghd.smil/playlist.m3u8
 http://blutv-beta.akamaized.net/ekoturk/ekoturk.smil/playlist.m3u8
 #EXTINF:0 group-title="HABER",HABER GLOBAL
 https://blutv-beta.akamaized.net/haberglobal/haberglobal.smil/playlist.m3u8
-
 #EXTINF:0 group-title="MUZIK",TRT MUZIK
 http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 #EXTINF:0 group-title="MUZIK",TRT MUZIK
@@ -106,7 +102,6 @@ http://blutv-beta.akamaized.net/dreamtvhd/dreamtvhd.smil/playlist.m3u8
 http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist.m3u8
 #EXTINF:0 group-title="MUZIK",NUMBER ONE TV
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunks.m3u8
-
 #EXTINF:0 group-title="SPOR",A SPOR
 http://trkvz-m.ercdn.net/asporhd/asporhd.m3u8
 #EXTINF:0 group-title="SPOR",TRT SPOR
@@ -123,7 +118,6 @@ http://live.netd.com.tr/S1/HLS_LIVE/tay/1000/prog_index.m3u8
 http://blutv-beta.akamaized.net/taytvhd/taytvhd.smil/playlist.m3u8
 #EXTINF:0 group-title="SPOR",TJK TV
 http://tjktv.ercdn.net/tjktv.m3u8
-
 #EXTINF:0 group-title="COCUK",TRT COCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:0 group-title="COCUK",TRT COCUK
@@ -132,7 +126,6 @@ https://blutv-beta.akamaized.net/trtcocukhd/trtcocukhd.smil/playlist.m3u8
 http://trkvz-m.ercdn.net/minikagococuk/minikagococuk.m3u8
 #EXTINF:0 group-title="COCUK",MINIKA GO
 http://trkvz-m.ercdn.net/minikago/minikago.m3u8
-
 #EXTINF:0 group-title="DIZI",360
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
 #EXTINF:0 group-title="DIZI",TLC
@@ -173,7 +166,6 @@ https://blutv-beta.akamaized.net/showturk/showturk.smil/playlist.m3u8
 http://blutv-beta.akamaized.net/tv8int/tv8int.smil/playlist.m3u8
 #EXTINF:0 group-title="DIZI",TGRT EU
 http://cdn1.streamencoding.com:1935/tgrt_eu/amlst:live-32/playlist.m3u8
-
 #EXTINF:0 group-title="DIGER",BEYAZ TV
 http://blutv-beta.akamaized.net/beyaztv/beyaztv.smil/playlist.m3u8
 #EXTINF:0 group-title="DIGER",KANAL 7
